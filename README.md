@@ -1,4 +1,4 @@
 # MyFirstProject
 This is first project on GitHub
 <br>
-Author:Sangeetha
+Author:Sangeetha D
